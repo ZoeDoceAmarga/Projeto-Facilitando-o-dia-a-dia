@@ -16,10 +16,3 @@ Para executar o projeto, bastar seguir essas instruções:
   <li>A lista com as propriedades salvas será exibida.</li>
 </ul>
 
-## Prints do Projeto
-
-### Código fonte do projeto:
-<img src=' ' />
-
-### Projeto sendo executado:
-<img src=" " />
